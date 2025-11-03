@@ -10,6 +10,3 @@
 
 ## Instalation
 
-```sh
-git clone https://github.com/ismailcankaratas/break-out-game
-```
